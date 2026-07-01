@@ -1,0 +1,3 @@
+[submodule "hs_fulda_material"]
+	path = hs_fulda_material
+	url = https://github.com/gbshschmlu/hs_fulda.git
